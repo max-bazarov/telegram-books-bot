@@ -131,5 +131,5 @@ dmypy.json
 .vscode
 
 # Google Sheets API
-.credentials.json
-.token.json
+credentials.json
+token.json
